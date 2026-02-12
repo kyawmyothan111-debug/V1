@@ -46,8 +46,8 @@ noBtn.addEventListener('mouseover', () => {
 
 // 3. Yes Button Logic
 yesBtn.addEventListener('click', () => {
-    mainText.innerText = "YAYYY! Happy Valentine's Day! ❤️";
-    subText.innerText = "I love you so much! See you soon!";
+    mainText.innerText = "Happy Valentine's Day! My Love ❤️";
+    subText.innerText = "You are my today and all of my tomorrows. I promise to love you forever ❤️";
     //"https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif",   
         //"https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif",   
     //"https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif",       
